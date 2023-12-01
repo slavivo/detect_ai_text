@@ -10,7 +10,7 @@ For me the motivation behind this work is to learn more about the current state 
 
 The dataset provided in the competition contains 10,000 essays, however only 1000 are labeled and can be used fo training. According to the competition the essays contain human-generated ones and also LLM-generated ones (from various LLMs). According to this [discussion](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/453410) 7 essay prompts were used: "Car-free cities", "Does the electoral college work?", "Exploring Venus", "The Face on Mars", "Facial action coding system", "A Cowboy Who Rode the Waves", "Driverless cars".
 
-Due to the low amount of essays in the training dataset it is crucial to use other data. Thankfully some kaggle users generated additional data - human and also LLM essays. These do not only contain the 7 prompts but also other ones. These are some examples: (2421 chatGPT essays with also human essays)[https://www.kaggle.com/datasets/alejopaullier/daigt-external-dataset/data] and (500 essays chatGTP3.5 )[https://www.kaggle.com/datasets/radek1/llm-generated-essays]. If more will be needed it is no problem to find some in the kaggle discussion section.
+Due to the low amount of essays in the training dataset it is crucial to use other data. Thankfully some kaggle users generated additional data - human and also LLM essays. These do not only contain the 7 prompts but also other ones. These are some examples: [2421 chatGPT essays with also human essays](https://www.kaggle.com/datasets/alejopaullier/daigt-external-dataset/data) and [500 essays chatGTP3.5](https://www.kaggle.com/datasets/radek1/llm-generated-essays). If more will be needed it is no problem to find some in the kaggle discussion section.
 
 ## Research
 
